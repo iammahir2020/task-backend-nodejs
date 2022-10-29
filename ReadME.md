@@ -1,6 +1,6 @@
 # Technical Screening Test
 
-## Position: Node.js Development Intern
+## Position: Node.js Developer
 
 ## Vouch Digital
 
